@@ -6,6 +6,9 @@ Please install all requirements from the requirements.txt at first. Ensure compa
 ## Data
 Get the data from arxiv papers published and place them in the folder unsupervised_learning_case_study/data folder as a json.
 
+## Pre-filtering the data
+Run the exploration notebook once, so you receive a pre-filtered dataset for the following steps. Also you will receive some general graphs about the distribution of the data.
+
 ## Training the model
 Run the module unsupervised_learning_case_study.pipeline.train_model first by running:
 ```
