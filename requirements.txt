@@ -1,0 +1,10 @@
+pickle
+pandas
+matplotlib
+bertopic
+json
+nltk
+sentence_transformers
+umap
+hdbscan
+scikit-learn
